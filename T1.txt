@@ -1,0 +1,11 @@
+gid command------
+
+git add . (add all)
+
+git commit -m "(tex update)"
+
+git log | --oneline
+
+git diff (7ID 1) (7ID 2) 
+
+git status
